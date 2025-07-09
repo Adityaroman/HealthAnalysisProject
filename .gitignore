@@ -6,3 +6,4 @@ venv/
 dashboard_venv/
 .vscode/
 .idea/
+*.log
