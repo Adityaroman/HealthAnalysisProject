@@ -1,11 +1,3 @@
-location,cases_per_capita
-Kerala,5.520972222222222
-Andhra Pradesh,3.6174999999999997
-Karnataka,3.0250000000000004
-Gujarat,2.851805555555556
-Rajasthan,2.6425
-Tamil Nadu,2.3697222222222223
-Madhya Pradesh,2.3384722222222223
-West Bengal,1.992361111111111
-Maharashtra,1.6336111111111111
-Uttar Pradesh,0.9583333333333334
+version https://git-lfs.github.com/spec/v1
+oid sha256:9e43eca5c04587cb15efc7df85fbb0342731414e3ba91396f191ed109f704624
+size 326
