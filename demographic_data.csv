@@ -1,721 +1,721 @@
 location,month,age_group,gender,cases
-Andhra Pradesh,2025-01-01,18-40,Female,894
-Andhra Pradesh,2025-01-01,18-40,Male,3124
-Andhra Pradesh,2025-01-01,41-60,Female,2754
-Andhra Pradesh,2025-01-01,41-60,Male,2316
-Andhra Pradesh,2025-01-01,61+,Female,2562
-Andhra Pradesh,2025-01-01,61+,Male,1239
-Andhra Pradesh,2025-02-01,18-40,Female,1316
-Andhra Pradesh,2025-02-01,18-40,Male,1641
-Andhra Pradesh,2025-02-01,41-60,Female,2673
-Andhra Pradesh,2025-02-01,41-60,Male,2749
-Andhra Pradesh,2025-02-01,61+,Female,911
-Andhra Pradesh,2025-02-01,61+,Male,1297
-Andhra Pradesh,2025-03-01,18-40,Female,2582
-Andhra Pradesh,2025-03-01,18-40,Male,2669
-Andhra Pradesh,2025-03-01,41-60,Female,2373
-Andhra Pradesh,2025-03-01,41-60,Male,1600
-Andhra Pradesh,2025-03-01,61+,Female,1680
-Andhra Pradesh,2025-03-01,61+,Male,753
-Andhra Pradesh,2025-04-01,18-40,Female,1754
-Andhra Pradesh,2025-04-01,18-40,Male,1482
-Andhra Pradesh,2025-04-01,41-60,Female,2060
-Andhra Pradesh,2025-04-01,41-60,Male,1686
-Andhra Pradesh,2025-04-01,61+,Female,796
-Andhra Pradesh,2025-04-01,61+,Male,1031
-Andhra Pradesh,2025-05-01,18-40,Female,1928
-Andhra Pradesh,2025-05-01,18-40,Male,1395
-Andhra Pradesh,2025-05-01,41-60,Female,1355
-Andhra Pradesh,2025-05-01,41-60,Male,2117
-Andhra Pradesh,2025-05-01,61+,Female,2251
-Andhra Pradesh,2025-05-01,61+,Male,810
-Andhra Pradesh,2025-06-01,18-40,Female,1157
-Andhra Pradesh,2025-06-01,18-40,Male,2407
-Andhra Pradesh,2025-06-01,41-60,Female,1135
-Andhra Pradesh,2025-06-01,41-60,Male,4186
-Andhra Pradesh,2025-06-01,61+,Female,2402
-Andhra Pradesh,2025-06-01,61+,Male,3114
-Andhra Pradesh,2025-07-01,18-40,Female,1327
-Andhra Pradesh,2025-07-01,18-40,Male,1757
-Andhra Pradesh,2025-07-01,41-60,Female,2243
-Andhra Pradesh,2025-07-01,41-60,Male,1346
-Andhra Pradesh,2025-07-01,61+,Female,885
-Andhra Pradesh,2025-07-01,61+,Male,1996
-Andhra Pradesh,2025-08-01,18-40,Female,878
-Andhra Pradesh,2025-08-01,18-40,Male,1049
-Andhra Pradesh,2025-08-01,41-60,Female,1981
-Andhra Pradesh,2025-08-01,41-60,Male,886
-Andhra Pradesh,2025-08-01,61+,Female,2595
-Andhra Pradesh,2025-08-01,61+,Male,2270
-Andhra Pradesh,2025-09-01,18-40,Female,1520
-Andhra Pradesh,2025-09-01,18-40,Male,1449
-Andhra Pradesh,2025-09-01,41-60,Female,2283
-Andhra Pradesh,2025-09-01,41-60,Male,2460
-Andhra Pradesh,2025-09-01,61+,Female,1217
-Andhra Pradesh,2025-09-01,61+,Male,1612
-Andhra Pradesh,2025-10-01,18-40,Female,1646
-Andhra Pradesh,2025-10-01,18-40,Male,1025
-Andhra Pradesh,2025-10-01,41-60,Female,767
-Andhra Pradesh,2025-10-01,41-60,Male,2419
-Andhra Pradesh,2025-10-01,61+,Female,960
-Andhra Pradesh,2025-10-01,61+,Male,1230
-Andhra Pradesh,2025-11-01,18-40,Female,3503
-Andhra Pradesh,2025-11-01,18-40,Male,506
-Andhra Pradesh,2025-11-01,41-60,Female,1629
-Andhra Pradesh,2025-11-01,41-60,Male,4102
-Andhra Pradesh,2025-11-01,61+,Female,1353
-Andhra Pradesh,2025-11-01,61+,Male,1753
-Andhra Pradesh,2025-12-01,18-40,Female,1494
-Andhra Pradesh,2025-12-01,18-40,Male,2433
-Andhra Pradesh,2025-12-01,41-60,Female,2703
-Andhra Pradesh,2025-12-01,41-60,Male,1489
-Andhra Pradesh,2025-12-01,61+,Female,1567
-Andhra Pradesh,2025-12-01,61+,Male,1812
-Gujarat,2025-01-01,18-40,Female,1861
-Gujarat,2025-01-01,18-40,Male,921
-Gujarat,2025-01-01,41-60,Female,3352
-Gujarat,2025-01-01,41-60,Male,2226
-Gujarat,2025-01-01,61+,Female,1826
-Gujarat,2025-01-01,61+,Male,1358
-Gujarat,2025-02-01,18-40,Female,1808
-Gujarat,2025-02-01,18-40,Male,1122
-Gujarat,2025-02-01,41-60,Female,967
-Gujarat,2025-02-01,41-60,Male,2819
-Gujarat,2025-02-01,61+,Female,1031
-Gujarat,2025-02-01,61+,Male,1557
-Gujarat,2025-03-01,18-40,Female,774
-Gujarat,2025-03-01,18-40,Male,2131
-Gujarat,2025-03-01,41-60,Female,1965
-Gujarat,2025-03-01,41-60,Male,1979
-Gujarat,2025-03-01,61+,Female,2382
-Gujarat,2025-03-01,61+,Male,2129
-Gujarat,2025-04-01,18-40,Female,735
-Gujarat,2025-04-01,18-40,Male,1279
-Gujarat,2025-04-01,41-60,Female,2416
-Gujarat,2025-04-01,41-60,Male,3847
-Gujarat,2025-04-01,61+,Female,741
-Gujarat,2025-04-01,61+,Male,569
-Gujarat,2025-05-01,18-40,Female,1657
-Gujarat,2025-05-01,18-40,Male,786
-Gujarat,2025-05-01,41-60,Female,2896
-Gujarat,2025-05-01,41-60,Male,2236
-Gujarat,2025-05-01,61+,Female,1780
-Gujarat,2025-05-01,61+,Male,1361
-Gujarat,2025-06-01,18-40,Female,3656
-Gujarat,2025-06-01,18-40,Male,254
-Gujarat,2025-06-01,41-60,Female,1524
-Gujarat,2025-06-01,41-60,Male,1867
-Gujarat,2025-06-01,61+,Female,542
-Gujarat,2025-06-01,61+,Male,1380
-Gujarat,2025-07-01,18-40,Female,2437
-Gujarat,2025-07-01,18-40,Male,1393
-Gujarat,2025-07-01,41-60,Female,2957
-Gujarat,2025-07-01,41-60,Male,1416
-Gujarat,2025-07-01,61+,Female,2051
-Gujarat,2025-07-01,61+,Male,2417
-Gujarat,2025-08-01,18-40,Female,1418
-Gujarat,2025-08-01,18-40,Male,1494
-Gujarat,2025-08-01,41-60,Female,847
-Gujarat,2025-08-01,41-60,Male,2931
-Gujarat,2025-08-01,61+,Female,2128
-Gujarat,2025-08-01,61+,Male,788
-Gujarat,2025-09-01,18-40,Female,1181
-Gujarat,2025-09-01,18-40,Male,1505
-Gujarat,2025-09-01,41-60,Female,1531
-Gujarat,2025-09-01,41-60,Male,2668
-Gujarat,2025-09-01,61+,Female,1013
-Gujarat,2025-09-01,61+,Male,840
-Gujarat,2025-10-01,18-40,Female,2080
-Gujarat,2025-10-01,18-40,Male,2241
-Gujarat,2025-10-01,41-60,Female,995
-Gujarat,2025-10-01,41-60,Male,419
-Gujarat,2025-10-01,61+,Female,1253
-Gujarat,2025-10-01,61+,Male,2377
-Gujarat,2025-11-01,18-40,Female,2923
-Gujarat,2025-11-01,18-40,Male,783
-Gujarat,2025-11-01,41-60,Female,1602
-Gujarat,2025-11-01,41-60,Male,2443
-Gujarat,2025-11-01,61+,Female,3038
-Gujarat,2025-11-01,61+,Male,2443
-Gujarat,2025-12-01,18-40,Female,2501
-Gujarat,2025-12-01,18-40,Male,1718
-Gujarat,2025-12-01,41-60,Female,1739
-Gujarat,2025-12-01,41-60,Male,930
-Gujarat,2025-12-01,61+,Female,2446
-Gujarat,2025-12-01,61+,Male,1638
-Karnataka,2025-01-01,18-40,Female,1153
-Karnataka,2025-01-01,18-40,Male,2759
-Karnataka,2025-01-01,41-60,Female,2097
-Karnataka,2025-01-01,41-60,Male,1759
-Karnataka,2025-01-01,61+,Female,1796
-Karnataka,2025-01-01,61+,Male,1302
-Karnataka,2025-02-01,18-40,Female,2250
-Karnataka,2025-02-01,18-40,Male,1565
-Karnataka,2025-02-01,41-60,Female,2125
-Karnataka,2025-02-01,41-60,Male,1456
-Karnataka,2025-02-01,61+,Female,998
-Karnataka,2025-02-01,61+,Male,1208
-Karnataka,2025-03-01,18-40,Female,556
-Karnataka,2025-03-01,18-40,Male,606
-Karnataka,2025-03-01,41-60,Female,1610
-Karnataka,2025-03-01,41-60,Male,2513
-Karnataka,2025-03-01,61+,Female,620
-Karnataka,2025-03-01,61+,Male,731
-Karnataka,2025-04-01,18-40,Female,789
-Karnataka,2025-04-01,18-40,Male,2690
-Karnataka,2025-04-01,41-60,Female,950
-Karnataka,2025-04-01,41-60,Male,1720
-Karnataka,2025-04-01,61+,Female,1539
-Karnataka,2025-04-01,61+,Male,848
-Karnataka,2025-05-01,18-40,Female,839
-Karnataka,2025-05-01,18-40,Male,1383
-Karnataka,2025-05-01,41-60,Female,1413
-Karnataka,2025-05-01,41-60,Male,1905
-Karnataka,2025-05-01,61+,Female,1556
-Karnataka,2025-05-01,61+,Male,1385
-Karnataka,2025-06-01,18-40,Female,1756
-Karnataka,2025-06-01,18-40,Male,1915
-Karnataka,2025-06-01,41-60,Female,1850
-Karnataka,2025-06-01,41-60,Male,1151
-Karnataka,2025-06-01,61+,Female,1376
-Karnataka,2025-06-01,61+,Male,982
-Karnataka,2025-07-01,18-40,Female,705
-Karnataka,2025-07-01,18-40,Male,2425
-Karnataka,2025-07-01,41-60,Female,1323
-Karnataka,2025-07-01,41-60,Male,3933
-Karnataka,2025-07-01,61+,Female,524
-Karnataka,2025-07-01,61+,Male,3593
-Karnataka,2025-08-01,18-40,Female,2279
-Karnataka,2025-08-01,18-40,Male,2537
-Karnataka,2025-08-01,41-60,Female,603
-Karnataka,2025-08-01,41-60,Male,861
-Karnataka,2025-08-01,61+,Female,1249
-Karnataka,2025-08-01,61+,Male,1673
-Karnataka,2025-09-01,18-40,Female,2060
-Karnataka,2025-09-01,18-40,Male,1397
-Karnataka,2025-09-01,41-60,Female,2518
-Karnataka,2025-09-01,41-60,Male,2044
-Karnataka,2025-09-01,61+,Female,3283
-Karnataka,2025-09-01,61+,Male,2588
-Karnataka,2025-10-01,18-40,Female,359
-Karnataka,2025-10-01,18-40,Male,957
-Karnataka,2025-10-01,41-60,Female,2177
-Karnataka,2025-10-01,41-60,Male,1418
-Karnataka,2025-10-01,61+,Female,1038
-Karnataka,2025-10-01,61+,Male,1496
-Karnataka,2025-11-01,18-40,Female,903
-Karnataka,2025-11-01,18-40,Male,1328
-Karnataka,2025-11-01,41-60,Female,2940
-Karnataka,2025-11-01,41-60,Male,2114
-Karnataka,2025-11-01,61+,Female,1706
-Karnataka,2025-11-01,61+,Male,2018
-Karnataka,2025-12-01,18-40,Female,2281
-Karnataka,2025-12-01,18-40,Male,2203
-Karnataka,2025-12-01,41-60,Female,1688
-Karnataka,2025-12-01,41-60,Male,1310
-Karnataka,2025-12-01,61+,Female,1450
-Karnataka,2025-12-01,61+,Male,1834
-Kerala,2025-01-01,18-40,Female,566
-Kerala,2025-01-01,18-40,Male,1214
-Kerala,2025-01-01,41-60,Female,1607
-Kerala,2025-01-01,41-60,Male,3475
-Kerala,2025-01-01,61+,Female,1008
-Kerala,2025-01-01,61+,Male,2925
-Kerala,2025-02-01,18-40,Female,1711
-Kerala,2025-02-01,18-40,Male,1424
-Kerala,2025-02-01,41-60,Female,1816
-Kerala,2025-02-01,41-60,Male,2555
-Kerala,2025-02-01,61+,Female,2649
-Kerala,2025-02-01,61+,Male,2399
-Kerala,2025-03-01,18-40,Female,1374
-Kerala,2025-03-01,18-40,Male,809
-Kerala,2025-03-01,41-60,Female,3478
-Kerala,2025-03-01,41-60,Male,2868
-Kerala,2025-03-01,61+,Female,1215
-Kerala,2025-03-01,61+,Male,2408
-Kerala,2025-04-01,18-40,Female,667
-Kerala,2025-04-01,18-40,Male,2010
-Kerala,2025-04-01,41-60,Female,1526
-Kerala,2025-04-01,41-60,Male,2798
-Kerala,2025-04-01,61+,Female,2285
-Kerala,2025-04-01,61+,Male,1883
-Kerala,2025-05-01,18-40,Female,720
-Kerala,2025-05-01,18-40,Male,1194
-Kerala,2025-05-01,41-60,Female,1763
-Kerala,2025-05-01,41-60,Male,2247
-Kerala,2025-05-01,61+,Female,1248
-Kerala,2025-05-01,61+,Male,2437
-Kerala,2025-06-01,18-40,Female,1829
-Kerala,2025-06-01,18-40,Male,1220
-Kerala,2025-06-01,41-60,Female,3611
-Kerala,2025-06-01,41-60,Male,3730
-Kerala,2025-06-01,61+,Female,2160
-Kerala,2025-06-01,61+,Male,2058
-Kerala,2025-07-01,18-40,Female,415
-Kerala,2025-07-01,18-40,Male,2741
-Kerala,2025-07-01,41-60,Female,1917
-Kerala,2025-07-01,41-60,Male,1490
-Kerala,2025-07-01,61+,Female,1628
-Kerala,2025-07-01,61+,Male,1843
-Kerala,2025-08-01,18-40,Female,2482
-Kerala,2025-08-01,18-40,Male,1740
-Kerala,2025-08-01,41-60,Female,3841
-Kerala,2025-08-01,41-60,Male,1232
-Kerala,2025-08-01,61+,Female,1860
-Kerala,2025-08-01,61+,Male,841
-Kerala,2025-09-01,18-40,Female,1362
-Kerala,2025-09-01,18-40,Male,1365
-Kerala,2025-09-01,41-60,Female,1938
-Kerala,2025-09-01,41-60,Male,2084
-Kerala,2025-09-01,61+,Female,1957
-Kerala,2025-09-01,61+,Male,1271
-Kerala,2025-10-01,18-40,Female,1200
-Kerala,2025-10-01,18-40,Male,2591
-Kerala,2025-10-01,41-60,Female,2757
-Kerala,2025-10-01,41-60,Male,2617
-Kerala,2025-10-01,61+,Female,352
-Kerala,2025-10-01,61+,Male,3846
-Kerala,2025-11-01,18-40,Female,664
-Kerala,2025-11-01,18-40,Male,2085
-Kerala,2025-11-01,41-60,Female,2343
-Kerala,2025-11-01,41-60,Male,2188
-Kerala,2025-11-01,61+,Female,1057
-Kerala,2025-11-01,61+,Male,1457
-Kerala,2025-12-01,18-40,Female,2856
-Kerala,2025-12-01,18-40,Male,1386
-Kerala,2025-12-01,41-60,Female,1506
-Kerala,2025-12-01,41-60,Male,1523
-Kerala,2025-12-01,61+,Female,878
-Kerala,2025-12-01,61+,Male,1383
-Madhya Pradesh,2025-01-01,18-40,Female,686
-Madhya Pradesh,2025-01-01,18-40,Male,886
-Madhya Pradesh,2025-01-01,41-60,Female,1515
-Madhya Pradesh,2025-01-01,41-60,Male,1442
-Madhya Pradesh,2025-01-01,61+,Female,1861
-Madhya Pradesh,2025-01-01,61+,Male,1159
-Madhya Pradesh,2025-02-01,18-40,Female,2507
-Madhya Pradesh,2025-02-01,18-40,Male,1581
-Madhya Pradesh,2025-02-01,41-60,Female,1115
-Madhya Pradesh,2025-02-01,41-60,Male,4062
-Madhya Pradesh,2025-02-01,61+,Female,1538
-Madhya Pradesh,2025-02-01,61+,Male,1031
-Madhya Pradesh,2025-03-01,18-40,Female,1817
-Madhya Pradesh,2025-03-01,18-40,Male,891
-Madhya Pradesh,2025-03-01,41-60,Female,818
-Madhya Pradesh,2025-03-01,41-60,Male,2057
-Madhya Pradesh,2025-03-01,61+,Female,96
-Madhya Pradesh,2025-03-01,61+,Male,1307
-Madhya Pradesh,2025-04-01,18-40,Female,1143
-Madhya Pradesh,2025-04-01,18-40,Male,1872
-Madhya Pradesh,2025-04-01,41-60,Female,2640
-Madhya Pradesh,2025-04-01,41-60,Male,2082
-Madhya Pradesh,2025-04-01,61+,Female,718
-Madhya Pradesh,2025-04-01,61+,Male,1294
-Madhya Pradesh,2025-05-01,18-40,Female,2455
-Madhya Pradesh,2025-05-01,18-40,Male,1863
-Madhya Pradesh,2025-05-01,41-60,Female,3771
-Madhya Pradesh,2025-05-01,41-60,Male,1922
-Madhya Pradesh,2025-05-01,61+,Female,1169
-Madhya Pradesh,2025-05-01,61+,Male,1593
-Madhya Pradesh,2025-06-01,18-40,Female,1563
-Madhya Pradesh,2025-06-01,18-40,Male,480
-Madhya Pradesh,2025-06-01,41-60,Female,1048
-Madhya Pradesh,2025-06-01,41-60,Male,1345
-Madhya Pradesh,2025-06-01,61+,Female,1957
-Madhya Pradesh,2025-06-01,61+,Male,2026
-Madhya Pradesh,2025-07-01,18-40,Female,2048
-Madhya Pradesh,2025-07-01,18-40,Male,1843
-Madhya Pradesh,2025-07-01,41-60,Female,2724
-Madhya Pradesh,2025-07-01,41-60,Male,3324
-Madhya Pradesh,2025-07-01,61+,Female,2001
-Madhya Pradesh,2025-07-01,61+,Male,1162
-Madhya Pradesh,2025-08-01,18-40,Female,2525
-Madhya Pradesh,2025-08-01,18-40,Male,1729
-Madhya Pradesh,2025-08-01,41-60,Female,1644
-Madhya Pradesh,2025-08-01,41-60,Male,1646
-Madhya Pradesh,2025-08-01,61+,Female,2387
-Madhya Pradesh,2025-08-01,61+,Male,3108
-Madhya Pradesh,2025-09-01,18-40,Female,1820
-Madhya Pradesh,2025-09-01,18-40,Male,1294
-Madhya Pradesh,2025-09-01,41-60,Female,1302
-Madhya Pradesh,2025-09-01,41-60,Male,2176
-Madhya Pradesh,2025-09-01,61+,Female,1157
-Madhya Pradesh,2025-09-01,61+,Male,1249
-Madhya Pradesh,2025-10-01,18-40,Female,1827
-Madhya Pradesh,2025-10-01,18-40,Male,2534
-Madhya Pradesh,2025-10-01,41-60,Female,2356
-Madhya Pradesh,2025-10-01,41-60,Male,2680
-Madhya Pradesh,2025-10-01,61+,Female,2113
-Madhya Pradesh,2025-10-01,61+,Male,2299
-Madhya Pradesh,2025-11-01,18-40,Female,3148
-Madhya Pradesh,2025-11-01,18-40,Male,1001
-Madhya Pradesh,2025-11-01,41-60,Female,938
-Madhya Pradesh,2025-11-01,41-60,Male,1900
-Madhya Pradesh,2025-11-01,61+,Female,3235
-Madhya Pradesh,2025-11-01,61+,Male,1928
-Madhya Pradesh,2025-12-01,18-40,Female,2992
-Madhya Pradesh,2025-12-01,18-40,Male,1753
-Madhya Pradesh,2025-12-01,41-60,Female,934
-Madhya Pradesh,2025-12-01,41-60,Male,1942
-Madhya Pradesh,2025-12-01,61+,Female,1464
-Madhya Pradesh,2025-12-01,61+,Male,1058
-Maharashtra,2025-01-01,18-40,Female,1191
-Maharashtra,2025-01-01,18-40,Male,2382
-Maharashtra,2025-01-01,41-60,Female,820
-Maharashtra,2025-01-01,41-60,Male,3393
-Maharashtra,2025-01-01,61+,Female,880
-Maharashtra,2025-01-01,61+,Male,1481
-Maharashtra,2025-02-01,18-40,Female,2159
-Maharashtra,2025-02-01,18-40,Male,2501
-Maharashtra,2025-02-01,41-60,Female,2622
-Maharashtra,2025-02-01,41-60,Male,1453
-Maharashtra,2025-02-01,61+,Female,1734
-Maharashtra,2025-02-01,61+,Male,1299
-Maharashtra,2025-03-01,18-40,Female,1871
-Maharashtra,2025-03-01,18-40,Male,193
-Maharashtra,2025-03-01,41-60,Female,1712
-Maharashtra,2025-03-01,41-60,Male,2022
-Maharashtra,2025-03-01,61+,Female,2238
-Maharashtra,2025-03-01,61+,Male,1074
-Maharashtra,2025-04-01,18-40,Female,2857
-Maharashtra,2025-04-01,18-40,Male,1665
-Maharashtra,2025-04-01,41-60,Female,1539
-Maharashtra,2025-04-01,41-60,Male,2043
-Maharashtra,2025-04-01,61+,Female,2208
-Maharashtra,2025-04-01,61+,Male,675
-Maharashtra,2025-05-01,18-40,Female,3013
-Maharashtra,2025-05-01,18-40,Male,931
-Maharashtra,2025-05-01,41-60,Female,3334
-Maharashtra,2025-05-01,41-60,Male,2243
-Maharashtra,2025-05-01,61+,Female,1259
-Maharashtra,2025-05-01,61+,Male,2842
-Maharashtra,2025-06-01,18-40,Female,1129
-Maharashtra,2025-06-01,18-40,Male,1754
-Maharashtra,2025-06-01,41-60,Female,2809
-Maharashtra,2025-06-01,41-60,Male,3132
-Maharashtra,2025-06-01,61+,Female,2217
-Maharashtra,2025-06-01,61+,Male,2095
-Maharashtra,2025-07-01,18-40,Female,1659
-Maharashtra,2025-07-01,18-40,Male,1501
-Maharashtra,2025-07-01,41-60,Female,2775
-Maharashtra,2025-07-01,41-60,Male,2031
-Maharashtra,2025-07-01,61+,Female,678
-Maharashtra,2025-07-01,61+,Male,1400
-Maharashtra,2025-08-01,18-40,Female,2007
-Maharashtra,2025-08-01,18-40,Male,2019
-Maharashtra,2025-08-01,41-60,Female,1111
-Maharashtra,2025-08-01,41-60,Male,2447
-Maharashtra,2025-08-01,61+,Female,1904
-Maharashtra,2025-08-01,61+,Male,1439
-Maharashtra,2025-09-01,18-40,Female,1089
-Maharashtra,2025-09-01,18-40,Male,2038
-Maharashtra,2025-09-01,41-60,Female,2354
-Maharashtra,2025-09-01,41-60,Male,2575
-Maharashtra,2025-09-01,61+,Female,1281
-Maharashtra,2025-09-01,61+,Male,1715
-Maharashtra,2025-10-01,18-40,Female,801
-Maharashtra,2025-10-01,18-40,Male,3112
-Maharashtra,2025-10-01,41-60,Female,1940
-Maharashtra,2025-10-01,41-60,Male,1863
-Maharashtra,2025-10-01,61+,Female,2448
-Maharashtra,2025-10-01,61+,Male,2402
-Maharashtra,2025-11-01,18-40,Female,1820
-Maharashtra,2025-11-01,18-40,Male,2138
-Maharashtra,2025-11-01,41-60,Female,2249
-Maharashtra,2025-11-01,41-60,Male,3943
-Maharashtra,2025-11-01,61+,Female,1565
-Maharashtra,2025-11-01,61+,Male,1734
-Maharashtra,2025-12-01,18-40,Female,1267
-Maharashtra,2025-12-01,18-40,Male,1815
-Maharashtra,2025-12-01,41-60,Female,1249
-Maharashtra,2025-12-01,41-60,Male,2617
-Maharashtra,2025-12-01,61+,Female,1131
-Maharashtra,2025-12-01,61+,Male,999
-Rajasthan,2025-01-01,18-40,Female,2511
-Rajasthan,2025-01-01,18-40,Male,731
-Rajasthan,2025-01-01,41-60,Female,1904
-Rajasthan,2025-01-01,41-60,Male,1984
-Rajasthan,2025-01-01,61+,Female,1337
-Rajasthan,2025-01-01,61+,Male,1173
-Rajasthan,2025-02-01,18-40,Female,619
-Rajasthan,2025-02-01,18-40,Male,1108
-Rajasthan,2025-02-01,41-60,Female,1038
-Rajasthan,2025-02-01,41-60,Male,2760
-Rajasthan,2025-02-01,61+,Female,551
-Rajasthan,2025-02-01,61+,Male,1992
-Rajasthan,2025-03-01,18-40,Female,1306
-Rajasthan,2025-03-01,18-40,Male,694
-Rajasthan,2025-03-01,41-60,Female,2935
-Rajasthan,2025-03-01,41-60,Male,2126
-Rajasthan,2025-03-01,61+,Female,1118
-Rajasthan,2025-03-01,61+,Male,2626
-Rajasthan,2025-04-01,18-40,Female,1972
-Rajasthan,2025-04-01,18-40,Male,960
-Rajasthan,2025-04-01,41-60,Female,4562
-Rajasthan,2025-04-01,41-60,Male,1180
-Rajasthan,2025-04-01,61+,Female,1243
-Rajasthan,2025-04-01,61+,Male,1716
-Rajasthan,2025-05-01,18-40,Female,2688
-Rajasthan,2025-05-01,18-40,Male,1238
-Rajasthan,2025-05-01,41-60,Female,2168
-Rajasthan,2025-05-01,41-60,Male,2033
-Rajasthan,2025-05-01,61+,Female,2772
-Rajasthan,2025-05-01,61+,Male,702
-Rajasthan,2025-06-01,18-40,Female,3069
-Rajasthan,2025-06-01,18-40,Male,1775
-Rajasthan,2025-06-01,41-60,Female,2718
-Rajasthan,2025-06-01,41-60,Male,1525
-Rajasthan,2025-06-01,61+,Female,1182
-Rajasthan,2025-06-01,61+,Male,1977
-Rajasthan,2025-07-01,18-40,Female,3625
-Rajasthan,2025-07-01,18-40,Male,1043
-Rajasthan,2025-07-01,41-60,Female,2989
-Rajasthan,2025-07-01,41-60,Male,2438
-Rajasthan,2025-07-01,61+,Female,977
-Rajasthan,2025-07-01,61+,Male,1682
-Rajasthan,2025-08-01,18-40,Female,1426
-Rajasthan,2025-08-01,18-40,Male,2145
-Rajasthan,2025-08-01,41-60,Female,1811
-Rajasthan,2025-08-01,41-60,Male,2607
-Rajasthan,2025-08-01,61+,Female,805
-Rajasthan,2025-08-01,61+,Male,1043
-Rajasthan,2025-09-01,18-40,Female,1460
-Rajasthan,2025-09-01,18-40,Male,2592
-Rajasthan,2025-09-01,41-60,Female,1948
-Rajasthan,2025-09-01,41-60,Male,4342
-Rajasthan,2025-09-01,61+,Female,1061
-Rajasthan,2025-09-01,61+,Male,1257
-Rajasthan,2025-10-01,18-40,Female,1669
-Rajasthan,2025-10-01,18-40,Male,1779
-Rajasthan,2025-10-01,41-60,Female,2459
-Rajasthan,2025-10-01,41-60,Male,1122
-Rajasthan,2025-10-01,61+,Female,1275
-Rajasthan,2025-10-01,61+,Male,3013
-Rajasthan,2025-11-01,18-40,Female,511
-Rajasthan,2025-11-01,18-40,Male,2544
-Rajasthan,2025-11-01,41-60,Female,1229
-Rajasthan,2025-11-01,41-60,Male,421
-Rajasthan,2025-11-01,61+,Female,1250
-Rajasthan,2025-11-01,61+,Male,1669
-Rajasthan,2025-12-01,18-40,Female,1869
-Rajasthan,2025-12-01,18-40,Male,1842
-Rajasthan,2025-12-01,41-60,Female,2258
-Rajasthan,2025-12-01,41-60,Male,1355
-Rajasthan,2025-12-01,61+,Female,1347
-Rajasthan,2025-12-01,61+,Male,847
-Tamil Nadu,2025-01-01,18-40,Female,1298
-Tamil Nadu,2025-01-01,18-40,Male,777
-Tamil Nadu,2025-01-01,41-60,Female,1026
-Tamil Nadu,2025-01-01,41-60,Male,3600
-Tamil Nadu,2025-01-01,61+,Female,1495
-Tamil Nadu,2025-01-01,61+,Male,1702
-Tamil Nadu,2025-02-01,18-40,Female,2095
-Tamil Nadu,2025-02-01,18-40,Male,2076
-Tamil Nadu,2025-02-01,41-60,Female,1447
-Tamil Nadu,2025-02-01,41-60,Male,4186
-Tamil Nadu,2025-02-01,61+,Female,1769
-Tamil Nadu,2025-02-01,61+,Male,273
-Tamil Nadu,2025-03-01,18-40,Female,3170
-Tamil Nadu,2025-03-01,18-40,Male,2294
-Tamil Nadu,2025-03-01,41-60,Female,2207
-Tamil Nadu,2025-03-01,41-60,Male,3184
-Tamil Nadu,2025-03-01,61+,Female,1928
-Tamil Nadu,2025-03-01,61+,Male,1698
-Tamil Nadu,2025-04-01,18-40,Female,2023
-Tamil Nadu,2025-04-01,18-40,Male,2582
-Tamil Nadu,2025-04-01,41-60,Female,1228
-Tamil Nadu,2025-04-01,41-60,Male,2042
-Tamil Nadu,2025-04-01,61+,Female,1831
-Tamil Nadu,2025-04-01,61+,Male,1016
-Tamil Nadu,2025-05-01,18-40,Female,1868
-Tamil Nadu,2025-05-01,18-40,Male,1997
-Tamil Nadu,2025-05-01,41-60,Female,2275
-Tamil Nadu,2025-05-01,41-60,Male,2837
-Tamil Nadu,2025-05-01,61+,Female,2383
-Tamil Nadu,2025-05-01,61+,Male,925
-Tamil Nadu,2025-06-01,18-40,Female,1396
-Tamil Nadu,2025-06-01,18-40,Male,1279
-Tamil Nadu,2025-06-01,41-60,Female,2250
-Tamil Nadu,2025-06-01,41-60,Male,2432
-Tamil Nadu,2025-06-01,61+,Female,1271
-Tamil Nadu,2025-06-01,61+,Male,2617
-Tamil Nadu,2025-07-01,18-40,Female,2722
-Tamil Nadu,2025-07-01,18-40,Male,1363
-Tamil Nadu,2025-07-01,41-60,Female,1900
-Tamil Nadu,2025-07-01,41-60,Male,782
-Tamil Nadu,2025-07-01,61+,Female,727
-Tamil Nadu,2025-07-01,61+,Male,974
-Tamil Nadu,2025-08-01,18-40,Female,1440
-Tamil Nadu,2025-08-01,18-40,Male,780
-Tamil Nadu,2025-08-01,41-60,Female,526
-Tamil Nadu,2025-08-01,41-60,Male,1668
-Tamil Nadu,2025-08-01,61+,Female,645
-Tamil Nadu,2025-08-01,61+,Male,2552
-Tamil Nadu,2025-09-01,18-40,Female,2149
-Tamil Nadu,2025-09-01,18-40,Male,1209
-Tamil Nadu,2025-09-01,41-60,Female,2000
-Tamil Nadu,2025-09-01,41-60,Male,2231
-Tamil Nadu,2025-09-01,61+,Female,832
-Tamil Nadu,2025-09-01,61+,Male,1309
-Tamil Nadu,2025-10-01,18-40,Female,417
-Tamil Nadu,2025-10-01,18-40,Male,1196
-Tamil Nadu,2025-10-01,41-60,Female,2356
-Tamil Nadu,2025-10-01,41-60,Male,2526
-Tamil Nadu,2025-10-01,61+,Female,2941
-Tamil Nadu,2025-10-01,61+,Male,1729
-Tamil Nadu,2025-11-01,18-40,Female,1429
-Tamil Nadu,2025-11-01,18-40,Male,1689
-Tamil Nadu,2025-11-01,41-60,Female,1178
-Tamil Nadu,2025-11-01,41-60,Male,1476
-Tamil Nadu,2025-11-01,61+,Female,807
-Tamil Nadu,2025-11-01,61+,Male,2288
-Tamil Nadu,2025-12-01,18-40,Female,1366
-Tamil Nadu,2025-12-01,18-40,Male,122
-Tamil Nadu,2025-12-01,41-60,Female,2269
-Tamil Nadu,2025-12-01,41-60,Male,2439
-Tamil Nadu,2025-12-01,61+,Female,634
-Tamil Nadu,2025-12-01,61+,Male,1195
-Uttar Pradesh,2025-01-01,18-40,Female,2607
-Uttar Pradesh,2025-01-01,18-40,Male,3498
-Uttar Pradesh,2025-01-01,41-60,Female,1389
-Uttar Pradesh,2025-01-01,41-60,Male,3753
-Uttar Pradesh,2025-01-01,61+,Female,358
-Uttar Pradesh,2025-01-01,61+,Male,2961
-Uttar Pradesh,2025-02-01,18-40,Female,2190
-Uttar Pradesh,2025-02-01,18-40,Male,1449
-Uttar Pradesh,2025-02-01,41-60,Female,1009
-Uttar Pradesh,2025-02-01,41-60,Male,2766
-Uttar Pradesh,2025-02-01,61+,Female,1638
-Uttar Pradesh,2025-02-01,61+,Male,744
-Uttar Pradesh,2025-03-01,18-40,Female,3370
-Uttar Pradesh,2025-03-01,18-40,Male,2113
-Uttar Pradesh,2025-03-01,41-60,Female,2437
-Uttar Pradesh,2025-03-01,41-60,Male,2661
-Uttar Pradesh,2025-03-01,61+,Female,758
-Uttar Pradesh,2025-03-01,61+,Male,823
-Uttar Pradesh,2025-04-01,18-40,Female,1584
-Uttar Pradesh,2025-04-01,18-40,Male,2412
-Uttar Pradesh,2025-04-01,41-60,Female,2442
-Uttar Pradesh,2025-04-01,41-60,Male,2273
-Uttar Pradesh,2025-04-01,61+,Female,1091
-Uttar Pradesh,2025-04-01,61+,Male,1424
-Uttar Pradesh,2025-05-01,18-40,Female,1120
-Uttar Pradesh,2025-05-01,18-40,Male,2904
-Uttar Pradesh,2025-05-01,41-60,Female,2271
-Uttar Pradesh,2025-05-01,41-60,Male,2092
-Uttar Pradesh,2025-05-01,61+,Female,2054
-Uttar Pradesh,2025-05-01,61+,Male,412
-Uttar Pradesh,2025-06-01,18-40,Female,2321
-Uttar Pradesh,2025-06-01,18-40,Male,1807
-Uttar Pradesh,2025-06-01,41-60,Female,1144
-Uttar Pradesh,2025-06-01,41-60,Male,2109
-Uttar Pradesh,2025-06-01,61+,Female,439
-Uttar Pradesh,2025-06-01,61+,Male,946
-Uttar Pradesh,2025-07-01,18-40,Female,1807
-Uttar Pradesh,2025-07-01,18-40,Male,2355
-Uttar Pradesh,2025-07-01,41-60,Female,2056
-Uttar Pradesh,2025-07-01,41-60,Male,2046
-Uttar Pradesh,2025-07-01,61+,Female,1582
-Uttar Pradesh,2025-07-01,61+,Male,1628
-Uttar Pradesh,2025-08-01,18-40,Female,603
-Uttar Pradesh,2025-08-01,18-40,Male,776
-Uttar Pradesh,2025-08-01,41-60,Female,2583
-Uttar Pradesh,2025-08-01,41-60,Male,2339
-Uttar Pradesh,2025-08-01,61+,Female,1810
-Uttar Pradesh,2025-08-01,61+,Male,1760
-Uttar Pradesh,2025-09-01,18-40,Female,1529
-Uttar Pradesh,2025-09-01,18-40,Male,1590
-Uttar Pradesh,2025-09-01,41-60,Female,1698
-Uttar Pradesh,2025-09-01,41-60,Male,2400
-Uttar Pradesh,2025-09-01,61+,Female,1412
-Uttar Pradesh,2025-09-01,61+,Male,1424
-Uttar Pradesh,2025-10-01,18-40,Female,1723
-Uttar Pradesh,2025-10-01,18-40,Male,1498
-Uttar Pradesh,2025-10-01,41-60,Female,1991
-Uttar Pradesh,2025-10-01,41-60,Male,2349
-Uttar Pradesh,2025-10-01,61+,Female,2047
-Uttar Pradesh,2025-10-01,61+,Male,1392
-Uttar Pradesh,2025-11-01,18-40,Female,1914
-Uttar Pradesh,2025-11-01,18-40,Male,1449
-Uttar Pradesh,2025-11-01,41-60,Female,2222
-Uttar Pradesh,2025-11-01,41-60,Male,2528
-Uttar Pradesh,2025-11-01,61+,Female,2315
-Uttar Pradesh,2025-11-01,61+,Male,709
-Uttar Pradesh,2025-12-01,18-40,Female,2371
-Uttar Pradesh,2025-12-01,18-40,Male,1992
-Uttar Pradesh,2025-12-01,41-60,Female,2490
-Uttar Pradesh,2025-12-01,41-60,Male,4039
-Uttar Pradesh,2025-12-01,61+,Female,1818
-Uttar Pradesh,2025-12-01,61+,Male,789
-West Bengal,2025-01-01,18-40,Female,1759
-West Bengal,2025-01-01,18-40,Male,1526
-West Bengal,2025-01-01,41-60,Female,1664
-West Bengal,2025-01-01,41-60,Male,2007
-West Bengal,2025-01-01,61+,Female,1539
-West Bengal,2025-01-01,61+,Male,1838
-West Bengal,2025-02-01,18-40,Female,1916
-West Bengal,2025-02-01,18-40,Male,474
-West Bengal,2025-02-01,41-60,Female,3492
-West Bengal,2025-02-01,41-60,Male,2522
-West Bengal,2025-02-01,61+,Female,2211
-West Bengal,2025-02-01,61+,Male,325
-West Bengal,2025-03-01,18-40,Female,1066
-West Bengal,2025-03-01,18-40,Male,1186
-West Bengal,2025-03-01,41-60,Female,2804
-West Bengal,2025-03-01,41-60,Male,2075
-West Bengal,2025-03-01,61+,Female,1054
-West Bengal,2025-03-01,61+,Male,2374
-West Bengal,2025-04-01,18-40,Female,1460
-West Bengal,2025-04-01,18-40,Male,1389
-West Bengal,2025-04-01,41-60,Female,2304
-West Bengal,2025-04-01,41-60,Male,910
-West Bengal,2025-04-01,61+,Female,2175
-West Bengal,2025-04-01,61+,Male,1940
-West Bengal,2025-05-01,18-40,Female,1575
-West Bengal,2025-05-01,18-40,Male,1262
-West Bengal,2025-05-01,41-60,Female,3050
-West Bengal,2025-05-01,41-60,Male,3635
-West Bengal,2025-05-01,61+,Female,1600
-West Bengal,2025-05-01,61+,Male,2144
-West Bengal,2025-06-01,18-40,Female,1235
-West Bengal,2025-06-01,18-40,Male,1314
-West Bengal,2025-06-01,41-60,Female,3613
-West Bengal,2025-06-01,41-60,Male,2148
-West Bengal,2025-06-01,61+,Female,4898
-West Bengal,2025-06-01,61+,Male,2671
-West Bengal,2025-07-01,18-40,Female,926
-West Bengal,2025-07-01,18-40,Male,2973
-West Bengal,2025-07-01,41-60,Female,1853
-West Bengal,2025-07-01,41-60,Male,3236
-West Bengal,2025-07-01,61+,Female,1194
-West Bengal,2025-07-01,61+,Male,2460
-West Bengal,2025-08-01,18-40,Female,2481
-West Bengal,2025-08-01,18-40,Male,2344
-West Bengal,2025-08-01,41-60,Female,1631
-West Bengal,2025-08-01,41-60,Male,1442
-West Bengal,2025-08-01,61+,Female,926
-West Bengal,2025-08-01,61+,Male,1784
-West Bengal,2025-09-01,18-40,Female,1462
-West Bengal,2025-09-01,18-40,Male,560
-West Bengal,2025-09-01,41-60,Female,3157
-West Bengal,2025-09-01,41-60,Male,2486
-West Bengal,2025-09-01,61+,Female,741
-West Bengal,2025-09-01,61+,Male,1768
-West Bengal,2025-10-01,18-40,Female,2485
-West Bengal,2025-10-01,18-40,Male,1230
-West Bengal,2025-10-01,41-60,Female,1689
-West Bengal,2025-10-01,41-60,Male,1643
-West Bengal,2025-10-01,61+,Female,1438
-West Bengal,2025-10-01,61+,Male,2171
-West Bengal,2025-11-01,18-40,Female,1617
-West Bengal,2025-11-01,18-40,Male,428
-West Bengal,2025-11-01,41-60,Female,1912
-West Bengal,2025-11-01,41-60,Male,2223
-West Bengal,2025-11-01,61+,Female,2380
-West Bengal,2025-11-01,61+,Male,1461
-West Bengal,2025-12-01,18-40,Female,2952
-West Bengal,2025-12-01,18-40,Male,503
-West Bengal,2025-12-01,41-60,Female,1933
-West Bengal,2025-12-01,41-60,Male,1129
-West Bengal,2025-12-01,61+,Female,3456
-West Bengal,2025-12-01,61+,Male,1477
+Andhra Pradesh,2025-01-01,18-40,Female,1497
+Andhra Pradesh,2025-01-01,18-40,Male,206
+Andhra Pradesh,2025-01-01,41-60,Female,1113
+Andhra Pradesh,2025-01-01,41-60,Male,2693
+Andhra Pradesh,2025-01-01,61+,Female,1840
+Andhra Pradesh,2025-01-01,61+,Male,1267
+Andhra Pradesh,2025-02-01,18-40,Female,2343
+Andhra Pradesh,2025-02-01,18-40,Male,1661
+Andhra Pradesh,2025-02-01,41-60,Female,2148
+Andhra Pradesh,2025-02-01,41-60,Male,1603
+Andhra Pradesh,2025-02-01,61+,Female,1041
+Andhra Pradesh,2025-02-01,61+,Male,1495
+Andhra Pradesh,2025-03-01,18-40,Female,1680
+Andhra Pradesh,2025-03-01,18-40,Male,1986
+Andhra Pradesh,2025-03-01,41-60,Female,2161
+Andhra Pradesh,2025-03-01,41-60,Male,3433
+Andhra Pradesh,2025-03-01,61+,Female,859
+Andhra Pradesh,2025-03-01,61+,Male,480
+Andhra Pradesh,2025-04-01,18-40,Female,1611
+Andhra Pradesh,2025-04-01,18-40,Male,1975
+Andhra Pradesh,2025-04-01,41-60,Female,1686
+Andhra Pradesh,2025-04-01,41-60,Male,2423
+Andhra Pradesh,2025-04-01,61+,Female,1909
+Andhra Pradesh,2025-04-01,61+,Male,605
+Andhra Pradesh,2025-05-01,18-40,Female,1259
+Andhra Pradesh,2025-05-01,18-40,Male,1507
+Andhra Pradesh,2025-05-01,41-60,Female,1131
+Andhra Pradesh,2025-05-01,41-60,Male,1390
+Andhra Pradesh,2025-05-01,61+,Female,2069
+Andhra Pradesh,2025-05-01,61+,Male,1017
+Andhra Pradesh,2025-06-01,18-40,Female,1562
+Andhra Pradesh,2025-06-01,18-40,Male,1637
+Andhra Pradesh,2025-06-01,41-60,Female,2538
+Andhra Pradesh,2025-06-01,41-60,Male,1951
+Andhra Pradesh,2025-06-01,61+,Female,1464
+Andhra Pradesh,2025-06-01,61+,Male,1913
+Andhra Pradesh,2025-07-01,18-40,Female,314
+Andhra Pradesh,2025-07-01,18-40,Male,555
+Andhra Pradesh,2025-07-01,41-60,Female,3157
+Andhra Pradesh,2025-07-01,41-60,Male,2400
+Andhra Pradesh,2025-07-01,61+,Female,826
+Andhra Pradesh,2025-07-01,61+,Male,1017
+Andhra Pradesh,2025-08-01,18-40,Female,2133
+Andhra Pradesh,2025-08-01,18-40,Male,3337
+Andhra Pradesh,2025-08-01,41-60,Female,2937
+Andhra Pradesh,2025-08-01,41-60,Male,2807
+Andhra Pradesh,2025-08-01,61+,Female,2010
+Andhra Pradesh,2025-08-01,61+,Male,1285
+Andhra Pradesh,2025-09-01,18-40,Female,1798
+Andhra Pradesh,2025-09-01,18-40,Male,1444
+Andhra Pradesh,2025-09-01,41-60,Female,2844
+Andhra Pradesh,2025-09-01,41-60,Male,2457
+Andhra Pradesh,2025-09-01,61+,Female,2503
+Andhra Pradesh,2025-09-01,61+,Male,802
+Andhra Pradesh,2025-10-01,18-40,Female,4024
+Andhra Pradesh,2025-10-01,18-40,Male,855
+Andhra Pradesh,2025-10-01,41-60,Female,2382
+Andhra Pradesh,2025-10-01,41-60,Male,3325
+Andhra Pradesh,2025-10-01,61+,Female,1380
+Andhra Pradesh,2025-10-01,61+,Male,1639
+Andhra Pradesh,2025-11-01,18-40,Female,776
+Andhra Pradesh,2025-11-01,18-40,Male,1315
+Andhra Pradesh,2025-11-01,41-60,Female,2403
+Andhra Pradesh,2025-11-01,41-60,Male,1920
+Andhra Pradesh,2025-11-01,61+,Female,2084
+Andhra Pradesh,2025-11-01,61+,Male,1616
+Andhra Pradesh,2025-12-01,18-40,Female,358
+Andhra Pradesh,2025-12-01,18-40,Male,1558
+Andhra Pradesh,2025-12-01,41-60,Female,2745
+Andhra Pradesh,2025-12-01,41-60,Male,850
+Andhra Pradesh,2025-12-01,61+,Female,1034
+Andhra Pradesh,2025-12-01,61+,Male,3272
+Gujarat,2025-01-01,18-40,Female,1986
+Gujarat,2025-01-01,18-40,Male,2505
+Gujarat,2025-01-01,41-60,Female,4495
+Gujarat,2025-01-01,41-60,Male,1976
+Gujarat,2025-01-01,61+,Female,2023
+Gujarat,2025-01-01,61+,Male,751
+Gujarat,2025-02-01,18-40,Female,1393
+Gujarat,2025-02-01,18-40,Male,698
+Gujarat,2025-02-01,41-60,Female,1773
+Gujarat,2025-02-01,41-60,Male,4015
+Gujarat,2025-02-01,61+,Female,219
+Gujarat,2025-02-01,61+,Male,877
+Gujarat,2025-03-01,18-40,Female,2867
+Gujarat,2025-03-01,18-40,Male,2197
+Gujarat,2025-03-01,41-60,Female,822
+Gujarat,2025-03-01,41-60,Male,3183
+Gujarat,2025-03-01,61+,Female,1583
+Gujarat,2025-03-01,61+,Male,1797
+Gujarat,2025-04-01,18-40,Female,827
+Gujarat,2025-04-01,18-40,Male,3160
+Gujarat,2025-04-01,41-60,Female,2562
+Gujarat,2025-04-01,41-60,Male,2077
+Gujarat,2025-04-01,61+,Female,1500
+Gujarat,2025-04-01,61+,Male,892
+Gujarat,2025-05-01,18-40,Female,1090
+Gujarat,2025-05-01,18-40,Male,1318
+Gujarat,2025-05-01,41-60,Female,2897
+Gujarat,2025-05-01,41-60,Male,1643
+Gujarat,2025-05-01,61+,Female,1256
+Gujarat,2025-05-01,61+,Male,1616
+Gujarat,2025-06-01,18-40,Female,1677
+Gujarat,2025-06-01,18-40,Male,723
+Gujarat,2025-06-01,41-60,Female,2065
+Gujarat,2025-06-01,41-60,Male,909
+Gujarat,2025-06-01,61+,Female,2619
+Gujarat,2025-06-01,61+,Male,640
+Gujarat,2025-07-01,18-40,Female,2302
+Gujarat,2025-07-01,18-40,Male,1677
+Gujarat,2025-07-01,41-60,Female,1571
+Gujarat,2025-07-01,41-60,Male,2041
+Gujarat,2025-07-01,61+,Female,2253
+Gujarat,2025-07-01,61+,Male,1693
+Gujarat,2025-08-01,18-40,Female,2176
+Gujarat,2025-08-01,18-40,Male,949
+Gujarat,2025-08-01,41-60,Female,1976
+Gujarat,2025-08-01,41-60,Male,2653
+Gujarat,2025-08-01,61+,Female,2584
+Gujarat,2025-08-01,61+,Male,1179
+Gujarat,2025-09-01,18-40,Female,2159
+Gujarat,2025-09-01,18-40,Male,878
+Gujarat,2025-09-01,41-60,Female,2392
+Gujarat,2025-09-01,41-60,Male,1330
+Gujarat,2025-09-01,61+,Female,167
+Gujarat,2025-09-01,61+,Male,1253
+Gujarat,2025-10-01,18-40,Female,143
+Gujarat,2025-10-01,18-40,Male,1218
+Gujarat,2025-10-01,41-60,Female,369
+Gujarat,2025-10-01,41-60,Male,3627
+Gujarat,2025-10-01,61+,Female,1554
+Gujarat,2025-10-01,61+,Male,1262
+Gujarat,2025-11-01,18-40,Female,1654
+Gujarat,2025-11-01,18-40,Male,1353
+Gujarat,2025-11-01,41-60,Female,1835
+Gujarat,2025-11-01,41-60,Male,1142
+Gujarat,2025-11-01,61+,Female,2310
+Gujarat,2025-11-01,61+,Male,1777
+Gujarat,2025-12-01,18-40,Female,810
+Gujarat,2025-12-01,18-40,Male,1522
+Gujarat,2025-12-01,41-60,Female,2313
+Gujarat,2025-12-01,41-60,Male,1839
+Gujarat,2025-12-01,61+,Female,2421
+Gujarat,2025-12-01,61+,Male,2895
+Karnataka,2025-01-01,18-40,Female,885
+Karnataka,2025-01-01,18-40,Male,1468
+Karnataka,2025-01-01,41-60,Female,2846
+Karnataka,2025-01-01,41-60,Male,1389
+Karnataka,2025-01-01,61+,Female,1389
+Karnataka,2025-01-01,61+,Male,883
+Karnataka,2025-02-01,18-40,Female,3046
+Karnataka,2025-02-01,18-40,Male,2426
+Karnataka,2025-02-01,41-60,Female,2573
+Karnataka,2025-02-01,41-60,Male,937
+Karnataka,2025-02-01,61+,Female,2002
+Karnataka,2025-02-01,61+,Male,1692
+Karnataka,2025-03-01,18-40,Female,2206
+Karnataka,2025-03-01,18-40,Male,1321
+Karnataka,2025-03-01,41-60,Female,1642
+Karnataka,2025-03-01,41-60,Male,954
+Karnataka,2025-03-01,61+,Female,1861
+Karnataka,2025-03-01,61+,Male,1299
+Karnataka,2025-04-01,18-40,Female,2197
+Karnataka,2025-04-01,18-40,Male,2321
+Karnataka,2025-04-01,41-60,Female,4290
+Karnataka,2025-04-01,41-60,Male,1719
+Karnataka,2025-04-01,61+,Female,1104
+Karnataka,2025-04-01,61+,Male,1804
+Karnataka,2025-05-01,18-40,Female,2157
+Karnataka,2025-05-01,18-40,Male,1628
+Karnataka,2025-05-01,41-60,Female,2713
+Karnataka,2025-05-01,41-60,Male,1972
+Karnataka,2025-05-01,61+,Female,1057
+Karnataka,2025-05-01,61+,Male,1456
+Karnataka,2025-06-01,18-40,Female,3035
+Karnataka,2025-06-01,18-40,Male,3560
+Karnataka,2025-06-01,41-60,Female,1238
+Karnataka,2025-06-01,41-60,Male,1310
+Karnataka,2025-06-01,61+,Female,2542
+Karnataka,2025-06-01,61+,Male,1518
+Karnataka,2025-07-01,18-40,Female,1853
+Karnataka,2025-07-01,18-40,Male,1266
+Karnataka,2025-07-01,41-60,Female,1425
+Karnataka,2025-07-01,41-60,Male,2945
+Karnataka,2025-07-01,61+,Female,1504
+Karnataka,2025-07-01,61+,Male,159
+Karnataka,2025-08-01,18-40,Female,2068
+Karnataka,2025-08-01,18-40,Male,666
+Karnataka,2025-08-01,41-60,Female,1948
+Karnataka,2025-08-01,41-60,Male,1898
+Karnataka,2025-08-01,61+,Female,455
+Karnataka,2025-08-01,61+,Male,2013
+Karnataka,2025-09-01,18-40,Female,780
+Karnataka,2025-09-01,18-40,Male,2393
+Karnataka,2025-09-01,41-60,Female,2481
+Karnataka,2025-09-01,41-60,Male,1412
+Karnataka,2025-09-01,61+,Female,2266
+Karnataka,2025-09-01,61+,Male,1978
+Karnataka,2025-10-01,18-40,Female,2010
+Karnataka,2025-10-01,18-40,Male,1216
+Karnataka,2025-10-01,41-60,Female,1564
+Karnataka,2025-10-01,41-60,Male,1821
+Karnataka,2025-10-01,61+,Female,1744
+Karnataka,2025-10-01,61+,Male,1599
+Karnataka,2025-11-01,18-40,Female,2226
+Karnataka,2025-11-01,18-40,Male,855
+Karnataka,2025-11-01,41-60,Female,1783
+Karnataka,2025-11-01,41-60,Male,3124
+Karnataka,2025-11-01,61+,Female,1993
+Karnataka,2025-11-01,61+,Male,3076
+Karnataka,2025-12-01,18-40,Female,1957
+Karnataka,2025-12-01,18-40,Male,1370
+Karnataka,2025-12-01,41-60,Female,2611
+Karnataka,2025-12-01,41-60,Male,981
+Karnataka,2025-12-01,61+,Female,1679
+Karnataka,2025-12-01,61+,Male,957
+Kerala,2025-01-01,18-40,Female,1645
+Kerala,2025-01-01,18-40,Male,1304
+Kerala,2025-01-01,41-60,Female,1903
+Kerala,2025-01-01,41-60,Male,4227
+Kerala,2025-01-01,61+,Female,1004
+Kerala,2025-01-01,61+,Male,1853
+Kerala,2025-02-01,18-40,Female,1768
+Kerala,2025-02-01,18-40,Male,2983
+Kerala,2025-02-01,41-60,Female,1995
+Kerala,2025-02-01,41-60,Male,2054
+Kerala,2025-02-01,61+,Female,842
+Kerala,2025-02-01,61+,Male,3598
+Kerala,2025-03-01,18-40,Female,1097
+Kerala,2025-03-01,18-40,Male,1285
+Kerala,2025-03-01,41-60,Female,979
+Kerala,2025-03-01,41-60,Male,2931
+Kerala,2025-03-01,61+,Female,2112
+Kerala,2025-03-01,61+,Male,2034
+Kerala,2025-04-01,18-40,Female,1726
+Kerala,2025-04-01,18-40,Male,1825
+Kerala,2025-04-01,41-60,Female,2667
+Kerala,2025-04-01,41-60,Male,4049
+Kerala,2025-04-01,61+,Female,878
+Kerala,2025-04-01,61+,Male,305
+Kerala,2025-05-01,18-40,Female,2496
+Kerala,2025-05-01,18-40,Male,1182
+Kerala,2025-05-01,41-60,Female,2266
+Kerala,2025-05-01,41-60,Male,1665
+Kerala,2025-05-01,61+,Female,1882
+Kerala,2025-05-01,61+,Male,3099
+Kerala,2025-06-01,18-40,Female,1576
+Kerala,2025-06-01,18-40,Male,1437
+Kerala,2025-06-01,41-60,Female,1150
+Kerala,2025-06-01,41-60,Male,1098
+Kerala,2025-06-01,61+,Female,1461
+Kerala,2025-06-01,61+,Male,2629
+Kerala,2025-07-01,18-40,Female,1712
+Kerala,2025-07-01,18-40,Male,1944
+Kerala,2025-07-01,41-60,Female,1019
+Kerala,2025-07-01,41-60,Male,4466
+Kerala,2025-07-01,61+,Female,2237
+Kerala,2025-07-01,61+,Male,677
+Kerala,2025-08-01,18-40,Female,632
+Kerala,2025-08-01,18-40,Male,1646
+Kerala,2025-08-01,41-60,Female,617
+Kerala,2025-08-01,41-60,Male,1194
+Kerala,2025-08-01,61+,Female,2142
+Kerala,2025-08-01,61+,Male,3003
+Kerala,2025-09-01,18-40,Female,2931
+Kerala,2025-09-01,18-40,Male,2168
+Kerala,2025-09-01,41-60,Female,3247
+Kerala,2025-09-01,41-60,Male,2936
+Kerala,2025-09-01,61+,Female,1735
+Kerala,2025-09-01,61+,Male,1528
+Kerala,2025-10-01,18-40,Female,1707
+Kerala,2025-10-01,18-40,Male,775
+Kerala,2025-10-01,41-60,Female,1659
+Kerala,2025-10-01,41-60,Male,2593
+Kerala,2025-10-01,61+,Female,1872
+Kerala,2025-10-01,61+,Male,1898
+Kerala,2025-11-01,18-40,Female,2147
+Kerala,2025-11-01,18-40,Male,1280
+Kerala,2025-11-01,41-60,Female,2356
+Kerala,2025-11-01,41-60,Male,1519
+Kerala,2025-11-01,61+,Female,859
+Kerala,2025-11-01,61+,Male,997
+Kerala,2025-12-01,18-40,Female,977
+Kerala,2025-12-01,18-40,Male,1942
+Kerala,2025-12-01,41-60,Female,2462
+Kerala,2025-12-01,41-60,Male,1768
+Kerala,2025-12-01,61+,Female,520
+Kerala,2025-12-01,61+,Male,1278
+Madhya Pradesh,2025-01-01,18-40,Female,1092
+Madhya Pradesh,2025-01-01,18-40,Male,1700
+Madhya Pradesh,2025-01-01,41-60,Female,2675
+Madhya Pradesh,2025-01-01,41-60,Male,1538
+Madhya Pradesh,2025-01-01,61+,Female,1182
+Madhya Pradesh,2025-01-01,61+,Male,1456
+Madhya Pradesh,2025-02-01,18-40,Female,1432
+Madhya Pradesh,2025-02-01,18-40,Male,2661
+Madhya Pradesh,2025-02-01,41-60,Female,1232
+Madhya Pradesh,2025-02-01,41-60,Male,699
+Madhya Pradesh,2025-02-01,61+,Female,831
+Madhya Pradesh,2025-02-01,61+,Male,1648
+Madhya Pradesh,2025-03-01,18-40,Female,898
+Madhya Pradesh,2025-03-01,18-40,Male,2344
+Madhya Pradesh,2025-03-01,41-60,Female,2903
+Madhya Pradesh,2025-03-01,41-60,Male,2441
+Madhya Pradesh,2025-03-01,61+,Female,1113
+Madhya Pradesh,2025-03-01,61+,Male,381
+Madhya Pradesh,2025-04-01,18-40,Female,1499
+Madhya Pradesh,2025-04-01,18-40,Male,538
+Madhya Pradesh,2025-04-01,41-60,Female,2199
+Madhya Pradesh,2025-04-01,41-60,Male,2159
+Madhya Pradesh,2025-04-01,61+,Female,2248
+Madhya Pradesh,2025-04-01,61+,Male,2127
+Madhya Pradesh,2025-05-01,18-40,Female,1366
+Madhya Pradesh,2025-05-01,18-40,Male,1928
+Madhya Pradesh,2025-05-01,41-60,Female,3099
+Madhya Pradesh,2025-05-01,41-60,Male,3316
+Madhya Pradesh,2025-05-01,61+,Female,1537
+Madhya Pradesh,2025-05-01,61+,Male,1759
+Madhya Pradesh,2025-06-01,18-40,Female,3243
+Madhya Pradesh,2025-06-01,18-40,Male,2633
+Madhya Pradesh,2025-06-01,41-60,Female,909
+Madhya Pradesh,2025-06-01,41-60,Male,847
+Madhya Pradesh,2025-06-01,61+,Female,2507
+Madhya Pradesh,2025-06-01,61+,Male,1793
+Madhya Pradesh,2025-07-01,18-40,Female,779
+Madhya Pradesh,2025-07-01,18-40,Male,1072
+Madhya Pradesh,2025-07-01,41-60,Female,1216
+Madhya Pradesh,2025-07-01,41-60,Male,1635
+Madhya Pradesh,2025-07-01,61+,Female,2636
+Madhya Pradesh,2025-07-01,61+,Male,938
+Madhya Pradesh,2025-08-01,18-40,Female,1737
+Madhya Pradesh,2025-08-01,18-40,Male,2759
+Madhya Pradesh,2025-08-01,41-60,Female,1418
+Madhya Pradesh,2025-08-01,41-60,Male,2681
+Madhya Pradesh,2025-08-01,61+,Female,393
+Madhya Pradesh,2025-08-01,61+,Male,1764
+Madhya Pradesh,2025-09-01,18-40,Female,2002
+Madhya Pradesh,2025-09-01,18-40,Male,1910
+Madhya Pradesh,2025-09-01,41-60,Female,2414
+Madhya Pradesh,2025-09-01,41-60,Male,2828
+Madhya Pradesh,2025-09-01,61+,Female,2764
+Madhya Pradesh,2025-09-01,61+,Male,625
+Madhya Pradesh,2025-10-01,18-40,Female,1822
+Madhya Pradesh,2025-10-01,18-40,Male,1400
+Madhya Pradesh,2025-10-01,41-60,Female,1814
+Madhya Pradesh,2025-10-01,41-60,Male,1871
+Madhya Pradesh,2025-10-01,61+,Female,1976
+Madhya Pradesh,2025-10-01,61+,Male,1237
+Madhya Pradesh,2025-11-01,18-40,Female,810
+Madhya Pradesh,2025-11-01,18-40,Male,1581
+Madhya Pradesh,2025-11-01,41-60,Female,3852
+Madhya Pradesh,2025-11-01,41-60,Male,3833
+Madhya Pradesh,2025-11-01,61+,Female,1906
+Madhya Pradesh,2025-11-01,61+,Male,641
+Madhya Pradesh,2025-12-01,18-40,Female,512
+Madhya Pradesh,2025-12-01,18-40,Male,819
+Madhya Pradesh,2025-12-01,41-60,Female,1176
+Madhya Pradesh,2025-12-01,41-60,Male,1482
+Madhya Pradesh,2025-12-01,61+,Female,1124
+Madhya Pradesh,2025-12-01,61+,Male,327
+Maharashtra,2025-01-01,18-40,Female,966
+Maharashtra,2025-01-01,18-40,Male,1231
+Maharashtra,2025-01-01,41-60,Female,1168
+Maharashtra,2025-01-01,41-60,Male,1187
+Maharashtra,2025-01-01,61+,Female,1633
+Maharashtra,2025-01-01,61+,Male,3136
+Maharashtra,2025-02-01,18-40,Female,867
+Maharashtra,2025-02-01,18-40,Male,1417
+Maharashtra,2025-02-01,41-60,Female,2707
+Maharashtra,2025-02-01,41-60,Male,2053
+Maharashtra,2025-02-01,61+,Female,1610
+Maharashtra,2025-02-01,61+,Male,2086
+Maharashtra,2025-03-01,18-40,Female,588
+Maharashtra,2025-03-01,18-40,Male,1207
+Maharashtra,2025-03-01,41-60,Female,2901
+Maharashtra,2025-03-01,41-60,Male,3903
+Maharashtra,2025-03-01,61+,Female,2527
+Maharashtra,2025-03-01,61+,Male,1918
+Maharashtra,2025-04-01,18-40,Female,2411
+Maharashtra,2025-04-01,18-40,Male,940
+Maharashtra,2025-04-01,41-60,Female,1217
+Maharashtra,2025-04-01,41-60,Male,809
+Maharashtra,2025-04-01,61+,Female,1474
+Maharashtra,2025-04-01,61+,Male,1721
+Maharashtra,2025-05-01,18-40,Female,1899
+Maharashtra,2025-05-01,18-40,Male,1558
+Maharashtra,2025-05-01,41-60,Female,1303
+Maharashtra,2025-05-01,41-60,Male,2990
+Maharashtra,2025-05-01,61+,Female,891
+Maharashtra,2025-05-01,61+,Male,1405
+Maharashtra,2025-06-01,18-40,Female,1336
+Maharashtra,2025-06-01,18-40,Male,3221
+Maharashtra,2025-06-01,41-60,Female,1142
+Maharashtra,2025-06-01,41-60,Male,2014
+Maharashtra,2025-06-01,61+,Female,1793
+Maharashtra,2025-06-01,61+,Male,1248
+Maharashtra,2025-07-01,18-40,Female,2803
+Maharashtra,2025-07-01,18-40,Male,1095
+Maharashtra,2025-07-01,41-60,Female,2046
+Maharashtra,2025-07-01,41-60,Male,1034
+Maharashtra,2025-07-01,61+,Female,2123
+Maharashtra,2025-07-01,61+,Male,2944
+Maharashtra,2025-08-01,18-40,Female,2379
+Maharashtra,2025-08-01,18-40,Male,1863
+Maharashtra,2025-08-01,41-60,Female,2307
+Maharashtra,2025-08-01,41-60,Male,4608
+Maharashtra,2025-08-01,61+,Female,1726
+Maharashtra,2025-08-01,61+,Male,2245
+Maharashtra,2025-09-01,18-40,Female,1331
+Maharashtra,2025-09-01,18-40,Male,1749
+Maharashtra,2025-09-01,41-60,Female,1559
+Maharashtra,2025-09-01,41-60,Male,1295
+Maharashtra,2025-09-01,61+,Female,2462
+Maharashtra,2025-09-01,61+,Male,2925
+Maharashtra,2025-10-01,18-40,Female,2042
+Maharashtra,2025-10-01,18-40,Male,986
+Maharashtra,2025-10-01,41-60,Female,2466
+Maharashtra,2025-10-01,41-60,Male,2417
+Maharashtra,2025-10-01,61+,Female,944
+Maharashtra,2025-10-01,61+,Male,1676
+Maharashtra,2025-11-01,18-40,Female,1230
+Maharashtra,2025-11-01,18-40,Male,1407
+Maharashtra,2025-11-01,41-60,Female,1458
+Maharashtra,2025-11-01,41-60,Male,2568
+Maharashtra,2025-11-01,61+,Female,2278
+Maharashtra,2025-11-01,61+,Male,905
+Maharashtra,2025-12-01,18-40,Female,2405
+Maharashtra,2025-12-01,18-40,Male,1575
+Maharashtra,2025-12-01,41-60,Female,3008
+Maharashtra,2025-12-01,41-60,Male,2487
+Maharashtra,2025-12-01,61+,Female,1819
+Maharashtra,2025-12-01,61+,Male,1380
+Rajasthan,2025-01-01,18-40,Female,2447
+Rajasthan,2025-01-01,18-40,Male,1755
+Rajasthan,2025-01-01,41-60,Female,2425
+Rajasthan,2025-01-01,41-60,Male,1838
+Rajasthan,2025-01-01,61+,Female,629
+Rajasthan,2025-01-01,61+,Male,1585
+Rajasthan,2025-02-01,18-40,Female,719
+Rajasthan,2025-02-01,18-40,Male,605
+Rajasthan,2025-02-01,41-60,Female,1866
+Rajasthan,2025-02-01,41-60,Male,2502
+Rajasthan,2025-02-01,61+,Female,486
+Rajasthan,2025-02-01,61+,Male,1779
+Rajasthan,2025-03-01,18-40,Female,3337
+Rajasthan,2025-03-01,18-40,Male,825
+Rajasthan,2025-03-01,41-60,Female,1553
+Rajasthan,2025-03-01,41-60,Male,1524
+Rajasthan,2025-03-01,61+,Female,751
+Rajasthan,2025-03-01,61+,Male,1027
+Rajasthan,2025-04-01,18-40,Female,2198
+Rajasthan,2025-04-01,18-40,Male,1281
+Rajasthan,2025-04-01,41-60,Female,3159
+Rajasthan,2025-04-01,41-60,Male,1132
+Rajasthan,2025-04-01,61+,Female,985
+Rajasthan,2025-04-01,61+,Male,3211
+Rajasthan,2025-05-01,18-40,Female,1893
+Rajasthan,2025-05-01,18-40,Male,1635
+Rajasthan,2025-05-01,41-60,Female,2211
+Rajasthan,2025-05-01,41-60,Male,2908
+Rajasthan,2025-05-01,61+,Female,1226
+Rajasthan,2025-05-01,61+,Male,2298
+Rajasthan,2025-06-01,18-40,Female,1836
+Rajasthan,2025-06-01,18-40,Male,1925
+Rajasthan,2025-06-01,41-60,Female,2323
+Rajasthan,2025-06-01,41-60,Male,1916
+Rajasthan,2025-06-01,61+,Female,1328
+Rajasthan,2025-06-01,61+,Male,2164
+Rajasthan,2025-07-01,18-40,Female,996
+Rajasthan,2025-07-01,18-40,Male,1117
+Rajasthan,2025-07-01,41-60,Female,625
+Rajasthan,2025-07-01,41-60,Male,2097
+Rajasthan,2025-07-01,61+,Female,1250
+Rajasthan,2025-07-01,61+,Male,1833
+Rajasthan,2025-08-01,18-40,Female,3001
+Rajasthan,2025-08-01,18-40,Male,2437
+Rajasthan,2025-08-01,41-60,Female,3109
+Rajasthan,2025-08-01,41-60,Male,1949
+Rajasthan,2025-08-01,61+,Female,1521
+Rajasthan,2025-08-01,61+,Male,1372
+Rajasthan,2025-09-01,18-40,Female,992
+Rajasthan,2025-09-01,18-40,Male,2236
+Rajasthan,2025-09-01,41-60,Female,2171
+Rajasthan,2025-09-01,41-60,Male,2326
+Rajasthan,2025-09-01,61+,Female,1674
+Rajasthan,2025-09-01,61+,Male,530
+Rajasthan,2025-10-01,18-40,Female,2064
+Rajasthan,2025-10-01,18-40,Male,2836
+Rajasthan,2025-10-01,41-60,Female,1656
+Rajasthan,2025-10-01,41-60,Male,2491
+Rajasthan,2025-10-01,61+,Female,1792
+Rajasthan,2025-10-01,61+,Male,1916
+Rajasthan,2025-11-01,18-40,Female,1951
+Rajasthan,2025-11-01,18-40,Male,1544
+Rajasthan,2025-11-01,41-60,Female,1866
+Rajasthan,2025-11-01,41-60,Male,2944
+Rajasthan,2025-11-01,61+,Female,2477
+Rajasthan,2025-11-01,61+,Male,1562
+Rajasthan,2025-12-01,18-40,Female,2081
+Rajasthan,2025-12-01,18-40,Male,596
+Rajasthan,2025-12-01,41-60,Female,3043
+Rajasthan,2025-12-01,41-60,Male,1581
+Rajasthan,2025-12-01,61+,Female,1590
+Rajasthan,2025-12-01,61+,Male,995
+Tamil Nadu,2025-01-01,18-40,Female,932
+Tamil Nadu,2025-01-01,18-40,Male,2160
+Tamil Nadu,2025-01-01,41-60,Female,2610
+Tamil Nadu,2025-01-01,41-60,Male,2457
+Tamil Nadu,2025-01-01,61+,Female,1668
+Tamil Nadu,2025-01-01,61+,Male,1051
+Tamil Nadu,2025-02-01,18-40,Female,2355
+Tamil Nadu,2025-02-01,18-40,Male,1360
+Tamil Nadu,2025-02-01,41-60,Female,2829
+Tamil Nadu,2025-02-01,41-60,Male,2255
+Tamil Nadu,2025-02-01,61+,Female,988
+Tamil Nadu,2025-02-01,61+,Male,1454
+Tamil Nadu,2025-03-01,18-40,Female,522
+Tamil Nadu,2025-03-01,18-40,Male,1950
+Tamil Nadu,2025-03-01,41-60,Female,788
+Tamil Nadu,2025-03-01,41-60,Male,1744
+Tamil Nadu,2025-03-01,61+,Female,1019
+Tamil Nadu,2025-03-01,61+,Male,2310
+Tamil Nadu,2025-04-01,18-40,Female,1152
+Tamil Nadu,2025-04-01,18-40,Male,2445
+Tamil Nadu,2025-04-01,41-60,Female,1108
+Tamil Nadu,2025-04-01,41-60,Male,2247
+Tamil Nadu,2025-04-01,61+,Female,1536
+Tamil Nadu,2025-04-01,61+,Male,1117
+Tamil Nadu,2025-05-01,18-40,Female,1036
+Tamil Nadu,2025-05-01,18-40,Male,1228
+Tamil Nadu,2025-05-01,41-60,Female,1933
+Tamil Nadu,2025-05-01,41-60,Male,1481
+Tamil Nadu,2025-05-01,61+,Female,1756
+Tamil Nadu,2025-05-01,61+,Male,1998
+Tamil Nadu,2025-06-01,18-40,Female,1819
+Tamil Nadu,2025-06-01,18-40,Male,1440
+Tamil Nadu,2025-06-01,41-60,Female,2110
+Tamil Nadu,2025-06-01,41-60,Male,1444
+Tamil Nadu,2025-06-01,61+,Female,2563
+Tamil Nadu,2025-06-01,61+,Male,2470
+Tamil Nadu,2025-07-01,18-40,Female,1304
+Tamil Nadu,2025-07-01,18-40,Male,1171
+Tamil Nadu,2025-07-01,41-60,Female,2356
+Tamil Nadu,2025-07-01,41-60,Male,2344
+Tamil Nadu,2025-07-01,61+,Female,2106
+Tamil Nadu,2025-07-01,61+,Male,1733
+Tamil Nadu,2025-08-01,18-40,Female,2255
+Tamil Nadu,2025-08-01,18-40,Male,1832
+Tamil Nadu,2025-08-01,41-60,Female,2004
+Tamil Nadu,2025-08-01,41-60,Male,1155
+Tamil Nadu,2025-08-01,61+,Female,1638
+Tamil Nadu,2025-08-01,61+,Male,1716
+Tamil Nadu,2025-09-01,18-40,Female,247
+Tamil Nadu,2025-09-01,18-40,Male,1220
+Tamil Nadu,2025-09-01,41-60,Female,2549
+Tamil Nadu,2025-09-01,41-60,Male,1021
+Tamil Nadu,2025-09-01,61+,Female,1374
+Tamil Nadu,2025-09-01,61+,Male,889
+Tamil Nadu,2025-10-01,18-40,Female,2412
+Tamil Nadu,2025-10-01,18-40,Male,1756
+Tamil Nadu,2025-10-01,41-60,Female,2222
+Tamil Nadu,2025-10-01,41-60,Male,3255
+Tamil Nadu,2025-10-01,61+,Female,742
+Tamil Nadu,2025-10-01,61+,Male,1673
+Tamil Nadu,2025-11-01,18-40,Female,2060
+Tamil Nadu,2025-11-01,18-40,Male,1747
+Tamil Nadu,2025-11-01,41-60,Female,1309
+Tamil Nadu,2025-11-01,41-60,Male,1970
+Tamil Nadu,2025-11-01,61+,Female,586
+Tamil Nadu,2025-11-01,61+,Male,873
+Tamil Nadu,2025-12-01,18-40,Female,1411
+Tamil Nadu,2025-12-01,18-40,Male,1542
+Tamil Nadu,2025-12-01,41-60,Female,2739
+Tamil Nadu,2025-12-01,41-60,Male,1261
+Tamil Nadu,2025-12-01,61+,Female,761
+Tamil Nadu,2025-12-01,61+,Male,1663
+Uttar Pradesh,2025-01-01,18-40,Female,1335
+Uttar Pradesh,2025-01-01,18-40,Male,1243
+Uttar Pradesh,2025-01-01,41-60,Female,3181
+Uttar Pradesh,2025-01-01,41-60,Male,1699
+Uttar Pradesh,2025-01-01,61+,Female,564
+Uttar Pradesh,2025-01-01,61+,Male,3070
+Uttar Pradesh,2025-02-01,18-40,Female,1932
+Uttar Pradesh,2025-02-01,18-40,Male,2650
+Uttar Pradesh,2025-02-01,41-60,Female,2731
+Uttar Pradesh,2025-02-01,41-60,Male,3178
+Uttar Pradesh,2025-02-01,61+,Female,2208
+Uttar Pradesh,2025-02-01,61+,Male,1933
+Uttar Pradesh,2025-03-01,18-40,Female,1155
+Uttar Pradesh,2025-03-01,18-40,Male,619
+Uttar Pradesh,2025-03-01,41-60,Female,3359
+Uttar Pradesh,2025-03-01,41-60,Male,2097
+Uttar Pradesh,2025-03-01,61+,Female,1690
+Uttar Pradesh,2025-03-01,61+,Male,999
+Uttar Pradesh,2025-04-01,18-40,Female,2505
+Uttar Pradesh,2025-04-01,18-40,Male,1170
+Uttar Pradesh,2025-04-01,41-60,Female,3197
+Uttar Pradesh,2025-04-01,41-60,Male,3831
+Uttar Pradesh,2025-04-01,61+,Female,1446
+Uttar Pradesh,2025-04-01,61+,Male,753
+Uttar Pradesh,2025-05-01,18-40,Female,1887
+Uttar Pradesh,2025-05-01,18-40,Male,1291
+Uttar Pradesh,2025-05-01,41-60,Female,1628
+Uttar Pradesh,2025-05-01,41-60,Male,2741
+Uttar Pradesh,2025-05-01,61+,Female,1022
+Uttar Pradesh,2025-05-01,61+,Male,779
+Uttar Pradesh,2025-06-01,18-40,Female,1391
+Uttar Pradesh,2025-06-01,18-40,Male,1655
+Uttar Pradesh,2025-06-01,41-60,Female,1883
+Uttar Pradesh,2025-06-01,41-60,Male,1632
+Uttar Pradesh,2025-06-01,61+,Female,2153
+Uttar Pradesh,2025-06-01,61+,Male,1481
+Uttar Pradesh,2025-07-01,18-40,Female,1831
+Uttar Pradesh,2025-07-01,18-40,Male,919
+Uttar Pradesh,2025-07-01,41-60,Female,2154
+Uttar Pradesh,2025-07-01,41-60,Male,1415
+Uttar Pradesh,2025-07-01,61+,Female,1431
+Uttar Pradesh,2025-07-01,61+,Male,62
+Uttar Pradesh,2025-08-01,18-40,Female,2156
+Uttar Pradesh,2025-08-01,18-40,Male,2277
+Uttar Pradesh,2025-08-01,41-60,Female,2085
+Uttar Pradesh,2025-08-01,41-60,Male,2702
+Uttar Pradesh,2025-08-01,61+,Female,1969
+Uttar Pradesh,2025-08-01,61+,Male,1506
+Uttar Pradesh,2025-09-01,18-40,Female,2523
+Uttar Pradesh,2025-09-01,18-40,Male,1901
+Uttar Pradesh,2025-09-01,41-60,Female,4064
+Uttar Pradesh,2025-09-01,41-60,Male,3042
+Uttar Pradesh,2025-09-01,61+,Female,1737
+Uttar Pradesh,2025-09-01,61+,Male,2249
+Uttar Pradesh,2025-10-01,18-40,Female,1636
+Uttar Pradesh,2025-10-01,18-40,Male,1353
+Uttar Pradesh,2025-10-01,41-60,Female,3503
+Uttar Pradesh,2025-10-01,41-60,Male,2183
+Uttar Pradesh,2025-10-01,61+,Female,2434
+Uttar Pradesh,2025-10-01,61+,Male,750
+Uttar Pradesh,2025-11-01,18-40,Female,1634
+Uttar Pradesh,2025-11-01,18-40,Male,1142
+Uttar Pradesh,2025-11-01,41-60,Female,2353
+Uttar Pradesh,2025-11-01,41-60,Male,3311
+Uttar Pradesh,2025-11-01,61+,Female,1885
+Uttar Pradesh,2025-11-01,61+,Male,1410
+Uttar Pradesh,2025-12-01,18-40,Female,1644
+Uttar Pradesh,2025-12-01,18-40,Male,710
+Uttar Pradesh,2025-12-01,41-60,Female,1332
+Uttar Pradesh,2025-12-01,41-60,Male,2488
+Uttar Pradesh,2025-12-01,61+,Female,1164
+Uttar Pradesh,2025-12-01,61+,Male,1448
+West Bengal,2025-01-01,18-40,Female,1487
+West Bengal,2025-01-01,18-40,Male,1449
+West Bengal,2025-01-01,41-60,Female,1676
+West Bengal,2025-01-01,41-60,Male,1692
+West Bengal,2025-01-01,61+,Female,2080
+West Bengal,2025-01-01,61+,Male,613
+West Bengal,2025-02-01,18-40,Female,1976
+West Bengal,2025-02-01,18-40,Male,1591
+West Bengal,2025-02-01,41-60,Female,2634
+West Bengal,2025-02-01,41-60,Male,3664
+West Bengal,2025-02-01,61+,Female,1640
+West Bengal,2025-02-01,61+,Male,732
+West Bengal,2025-03-01,18-40,Female,3543
+West Bengal,2025-03-01,18-40,Male,1342
+West Bengal,2025-03-01,41-60,Female,1548
+West Bengal,2025-03-01,41-60,Male,2000
+West Bengal,2025-03-01,61+,Female,2138
+West Bengal,2025-03-01,61+,Male,1869
+West Bengal,2025-04-01,18-40,Female,2084
+West Bengal,2025-04-01,18-40,Male,2324
+West Bengal,2025-04-01,41-60,Female,1397
+West Bengal,2025-04-01,41-60,Male,2348
+West Bengal,2025-04-01,61+,Female,747
+West Bengal,2025-04-01,61+,Male,607
+West Bengal,2025-05-01,18-40,Female,746
+West Bengal,2025-05-01,18-40,Male,1120
+West Bengal,2025-05-01,41-60,Female,2150
+West Bengal,2025-05-01,41-60,Male,3069
+West Bengal,2025-05-01,61+,Female,986
+West Bengal,2025-05-01,61+,Male,720
+West Bengal,2025-06-01,18-40,Female,1106
+West Bengal,2025-06-01,18-40,Male,2415
+West Bengal,2025-06-01,41-60,Female,983
+West Bengal,2025-06-01,41-60,Male,1531
+West Bengal,2025-06-01,61+,Female,2572
+West Bengal,2025-06-01,61+,Male,1254
+West Bengal,2025-07-01,18-40,Female,1355
+West Bengal,2025-07-01,18-40,Male,1022
+West Bengal,2025-07-01,41-60,Female,1915
+West Bengal,2025-07-01,41-60,Male,3274
+West Bengal,2025-07-01,61+,Female,1754
+West Bengal,2025-07-01,61+,Male,1494
+West Bengal,2025-08-01,18-40,Female,2248
+West Bengal,2025-08-01,18-40,Male,1086
+West Bengal,2025-08-01,41-60,Female,1795
+West Bengal,2025-08-01,41-60,Male,3105
+West Bengal,2025-08-01,61+,Female,2400
+West Bengal,2025-08-01,61+,Male,694
+West Bengal,2025-09-01,18-40,Female,1758
+West Bengal,2025-09-01,18-40,Male,2762
+West Bengal,2025-09-01,41-60,Female,2056
+West Bengal,2025-09-01,41-60,Male,1638
+West Bengal,2025-09-01,61+,Female,1348
+West Bengal,2025-09-01,61+,Male,1403
+West Bengal,2025-10-01,18-40,Female,2873
+West Bengal,2025-10-01,18-40,Male,2338
+West Bengal,2025-10-01,41-60,Female,1959
+West Bengal,2025-10-01,41-60,Male,1427
+West Bengal,2025-10-01,61+,Female,2965
+West Bengal,2025-10-01,61+,Male,1140
+West Bengal,2025-11-01,18-40,Female,1239
+West Bengal,2025-11-01,18-40,Male,1340
+West Bengal,2025-11-01,41-60,Female,4172
+West Bengal,2025-11-01,41-60,Male,3451
+West Bengal,2025-11-01,61+,Female,1705
+West Bengal,2025-11-01,61+,Male,2124
+West Bengal,2025-12-01,18-40,Female,1407
+West Bengal,2025-12-01,18-40,Male,2367
+West Bengal,2025-12-01,41-60,Female,2191
+West Bengal,2025-12-01,41-60,Male,2171
+West Bengal,2025-12-01,61+,Female,1293
+West Bengal,2025-12-01,61+,Male,1428

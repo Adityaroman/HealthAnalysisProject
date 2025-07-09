@@ -1,31 +1,31 @@
 location,level_1,month,forecasted_cases,high_case
-Andhra Pradesh,0,2025-12-01,1153.0,True
-Andhra Pradesh,1,2026-01-01,1153.0,True
-Andhra Pradesh,2,2026-03-01,1153.0,True
-Gujarat,0,2025-12-01,1704.0,False
-Gujarat,1,2026-01-01,1704.0,False
-Gujarat,2,2026-03-01,1704.0,False
-Karnataka,0,2025-12-01,1228.0,False
-Karnataka,1,2026-01-01,1228.0,False
-Karnataka,2,2026-03-01,1228.0,False
-Kerala,0,2025-12-01,2150.0,True
-Kerala,1,2026-01-01,2150.0,True
-Kerala,2,2026-03-01,2150.0,True
-Madhya Pradesh,0,2025-12-01,2200.0,False
-Madhya Pradesh,1,2026-01-01,2200.0,False
-Madhya Pradesh,2,2026-03-01,2200.0,False
-Maharashtra,0,2025-12-01,1855.0,True
-Maharashtra,1,2026-01-01,1855.0,True
-Maharashtra,2,2026-03-01,1855.0,True
-Rajasthan,0,2025-12-01,1989.0,False
-Rajasthan,1,2026-01-01,1989.0,False
-Rajasthan,2,2026-03-01,1989.0,False
-Tamil Nadu,0,2025-12-01,1357.0,False
-Tamil Nadu,1,2026-01-01,1357.0,False
-Tamil Nadu,2,2026-03-01,1357.0,False
-Uttar Pradesh,0,2025-12-01,1757.0,True
-Uttar Pradesh,1,2026-01-01,1757.0,True
-Uttar Pradesh,2,2026-03-01,1757.0,True
-West Bengal,0,2025-12-01,1830.0,True
-West Bengal,1,2026-01-01,1830.0,True
-West Bengal,2,2026-03-01,1830.0,True
+Andhra Pradesh,0,2025-12-01,2521.0,False
+Andhra Pradesh,1,2026-01-01,2521.0,False
+Andhra Pradesh,2,2026-03-01,2521.0,False
+Gujarat,0,2025-12-01,531.0,False
+Gujarat,1,2026-01-01,531.0,False
+Gujarat,2,2026-03-01,531.0,False
+Karnataka,0,2025-12-01,1634.0,True
+Karnataka,1,2026-01-01,1634.0,True
+Karnataka,2,2026-03-01,1634.0,True
+Kerala,0,2025-12-01,1444.0,True
+Kerala,1,2026-01-01,1444.0,True
+Kerala,2,2026-03-01,1444.0,True
+Madhya Pradesh,0,2025-12-01,1701.0,False
+Madhya Pradesh,1,2026-01-01,1701.0,False
+Madhya Pradesh,2,2026-03-01,1701.0,False
+Maharashtra,0,2025-12-01,1922.0,True
+Maharashtra,1,2026-01-01,1922.0,True
+Maharashtra,2,2026-03-01,1922.0,True
+Rajasthan,0,2025-12-01,2105.0,False
+Rajasthan,1,2026-01-01,2105.0,False
+Rajasthan,2,2026-03-01,2105.0,False
+Tamil Nadu,0,2025-12-01,2139.0,False
+Tamil Nadu,1,2026-01-01,2139.0,False
+Tamil Nadu,2,2026-03-01,2139.0,False
+Uttar Pradesh,0,2025-12-01,2257.0,True
+Uttar Pradesh,1,2026-01-01,2257.0,True
+Uttar Pradesh,2,2026-03-01,2257.0,True
+West Bengal,0,2025-12-01,2373.0,True
+West Bengal,1,2026-01-01,2373.0,True
+West Bengal,2,2026-03-01,2373.0,True
